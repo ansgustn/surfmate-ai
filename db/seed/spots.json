@@ -1,0 +1,302 @@
+[
+  {
+    "id": "songjeong",
+    "name": "송정 해변",
+    "region": "부산",
+    "lat": 35.1786,
+    "lon": 129.2001,
+    "bottom_type": "sand",
+    "beginner_friendly": true,
+    "board_fit": [
+      "longboard",
+      "softtop"
+    ],
+    "popularity": 0.9,
+    "tour": {
+      "area": "26",
+      "signgu": "26350",
+      "name": "송정해수욕장"
+    },
+    "note": "국내 대표 입문 스팟. 모래 지형, 완만한 파도"
+  },
+  {
+    "id": "dadaepo",
+    "name": "다대포 해변",
+    "region": "부산",
+    "lat": 35.0465,
+    "lon": 128.9663,
+    "bottom_type": "sand",
+    "beginner_friendly": true,
+    "board_fit": [
+      "longboard",
+      "softtop"
+    ],
+    "popularity": 0.5,
+    "tour": {
+      "area": "26",
+      "signgu": "26380",
+      "name": "다대포해수욕장"
+    },
+    "note": "수심이 얕고 넓은 모래사장"
+  },
+  {
+    "id": "ilgwang",
+    "name": "일광 해변",
+    "region": "부산",
+    "lat": 35.2603,
+    "lon": 129.2336,
+    "bottom_type": "sand",
+    "beginner_friendly": true,
+    "board_fit": [
+      "longboard",
+      "softtop"
+    ],
+    "popularity": 0.45,
+    "tour": {
+      "area": "26",
+      "signgu": "26710",
+      "name": "일광해수욕장"
+    },
+    "note": "비교적 한산한 편"
+  },
+  {
+    "id": "haeundae",
+    "name": "해운대 해변",
+    "region": "부산",
+    "lat": 35.1587,
+    "lon": 129.1604,
+    "bottom_type": "sand",
+    "beginner_friendly": true,
+    "board_fit": [
+      "longboard",
+      "shortboard"
+    ],
+    "popularity": 0.6,
+    "tour": {
+      "area": "26",
+      "signgu": "26350",
+      "name": "해운대해수욕장"
+    },
+    "note": "서핑 허용 구역이 정해져 있음, 성수기 혼잡"
+  },
+  {
+    "id": "jukdo",
+    "name": "죽도 해변",
+    "region": "양양",
+    "lat": 37.9727,
+    "lon": 128.7597,
+    "bottom_type": "sand",
+    "beginner_friendly": true,
+    "board_fit": [
+      "longboard",
+      "softtop"
+    ],
+    "popularity": 1.0,
+    "tour": {
+      "area": "51",
+      "signgu": "51830",
+      "name": "죽도해수욕장"
+    },
+    "note": "서핑 스쿨 밀집, 주말 라인업 혼잡"
+  },
+  {
+    "id": "gisamun",
+    "name": "기사문 해변",
+    "region": "양양",
+    "lat": 38.0034,
+    "lon": 128.7302,
+    "bottom_type": "mixed",
+    "beginner_friendly": false,
+    "board_fit": [
+      "shortboard",
+      "longboard"
+    ],
+    "popularity": 0.65,
+    "tour": {
+      "area": "51",
+      "signgu": "51830",
+      "name": "기사문해수욕장"
+    },
+    "note": "일부 구간 암반 혼재, 중급 이상 권장"
+  },
+  {
+    "id": "inggu",
+    "name": "인구 해변",
+    "region": "양양",
+    "lat": 37.9662,
+    "lon": 128.7631,
+    "bottom_type": "sand",
+    "beginner_friendly": true,
+    "board_fit": [
+      "longboard",
+      "softtop"
+    ],
+    "popularity": 0.85,
+    "tour": {
+      "area": "51",
+      "signgu": "51830",
+      "name": "인구해수욕장"
+    },
+    "note": "죽도 바로 남쪽, 서핑숍·강습 밀집"
+  },
+  {
+    "id": "geumjin",
+    "name": "금진 해변",
+    "region": "강릉",
+    "lat": 37.6533,
+    "lon": 129.0469,
+    "bottom_type": "sand",
+    "beginner_friendly": true,
+    "board_fit": [
+      "longboard",
+      "shortboard"
+    ],
+    "popularity": 0.6,
+    "tour": {
+      "area": "51",
+      "signgu": "51150",
+      "name": "금진해변"
+    },
+    "note": "강릉 대표 서핑 스팟, 파도가 꾸준한 편"
+  },
+  {
+    "id": "songjiho",
+    "name": "송지호 해변",
+    "region": "고성",
+    "lat": 38.3335,
+    "lon": 128.5236,
+    "bottom_type": "sand",
+    "beginner_friendly": true,
+    "board_fit": [
+      "longboard",
+      "softtop"
+    ],
+    "popularity": 0.45,
+    "tour": {
+      "area": "51",
+      "signgu": "51820",
+      "name": "송지호 해수욕장"
+    },
+    "note": "넓은 모래사장, 비교적 한산"
+  },
+  {
+    "id": "wolpo",
+    "name": "월포 해변",
+    "region": "포항",
+    "lat": 36.2155,
+    "lon": 129.3763,
+    "bottom_type": "sand",
+    "beginner_friendly": true,
+    "board_fit": [
+      "longboard",
+      "softtop"
+    ],
+    "popularity": 0.45,
+    "tour": {
+      "area": "47",
+      "signgu": "47113",
+      "name": "월포해수욕장"
+    },
+    "note": "포항 대표 입문 스팟, 완만한 모래 해변"
+  },
+  {
+    "id": "gwangalli",
+    "name": "광안리 해변",
+    "region": "부산",
+    "lat": 35.1532,
+    "lon": 129.1187,
+    "bottom_type": "sand",
+    "beginner_friendly": true,
+    "board_fit": [
+      "longboard",
+      "softtop"
+    ],
+    "popularity": 0.4,
+    "tour": {
+      "area": "26",
+      "signgu": "26500",
+      "name": "광안리해수욕장"
+    },
+    "note": "만 안쪽이라 파도가 작은 날이 많음"
+  },
+  {
+    "id": "jungmun",
+    "name": "중문 해변",
+    "region": "제주",
+    "lat": 33.2449,
+    "lon": 126.4109,
+    "bottom_type": "sand",
+    "beginner_friendly": false,
+    "board_fit": [
+      "shortboard",
+      "longboard"
+    ],
+    "popularity": 0.7,
+    "tour": {
+      "area": "50",
+      "signgu": "50130",
+      "name": "중문·색달 해변"
+    },
+    "note": "파도가 강하고 이안류 주의, 중급 이상 권장"
+  },
+  {
+    "id": "iho",
+    "name": "이호테우 해변",
+    "region": "제주",
+    "lat": 33.4977,
+    "lon": 126.4529,
+    "bottom_type": "sand",
+    "beginner_friendly": true,
+    "board_fit": [
+      "longboard",
+      "softtop"
+    ],
+    "popularity": 0.6,
+    "tour": {
+      "area": "50",
+      "signgu": "50110",
+      "name": "이호테우해변"
+    },
+    "note": "제주시 가까운 입문 스팟, 겨울 북서 스웰"
+  },
+  {
+    "id": "woljeong",
+    "name": "월정리 해변",
+    "region": "제주",
+    "lat": 33.5566,
+    "lon": 126.7959,
+    "bottom_type": "mixed",
+    "beginner_friendly": true,
+    "board_fit": [
+      "longboard",
+      "softtop"
+    ],
+    "popularity": 0.55,
+    "tour": {
+      "area": "50",
+      "signgu": "50110",
+      "name": "월정리해변(월정리해수욕장)"
+    },
+    "note": "모래 사이 암반 구간 있음, 썰물 때 주의"
+  },
+  {
+    "id": "mallipo",
+    "name": "만리포 해변",
+    "region": "태안",
+    "lat": 36.7869,
+    "lon": 126.1424,
+    "bottom_type": "sand",
+    "beginner_friendly": true,
+    "board_fit": [
+      "longboard",
+      "softtop"
+    ],
+    "popularity": 0.6,
+    "tour": {
+      "area": "44",
+      "signgu": "44825",
+      "name": "만리포해수욕장"
+    },
+    "note": "서해 대표 서핑 스팟, 겨울 북서풍 시즌"
+  }
+]

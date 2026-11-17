@@ -1,0 +1,3613 @@
+[
+ {
+  "id": "t125681",
+  "name": "지경리 해변",
+  "region": "양양",
+  "lat": 37.92041,
+  "lon": 128.80319,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51830",
+   "name": "지경리해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125682",
+  "name": "북분리 해변",
+  "region": "양양",
+  "lat": 37.9869,
+  "lon": 128.7499,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51830",
+   "name": "북분리해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125683",
+  "name": "마차진 해변",
+  "region": "고성",
+  "lat": 38.5113,
+  "lon": 128.4194,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "마차진해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125684",
+  "name": "아야진 해변",
+  "region": "고성",
+  "lat": 38.2766,
+  "lon": 128.55327,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "아야진해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125686",
+  "name": "천진 해변",
+  "region": "고성",
+  "lat": 38.25963,
+  "lon": 128.56019,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "천진해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125687",
+  "name": "상맹방 해변",
+  "region": "삼척",
+  "lat": 37.40242,
+  "lon": 129.21222,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "상맹방해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125690",
+  "name": "문암 해변",
+  "region": "삼척",
+  "lat": 37.3094,
+  "lon": 129.2884,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "문암해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125691",
+  "name": "남항진 해변",
+  "region": "강릉",
+  "lat": 37.76397,
+  "lon": 128.95432,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "남항진해변(남항진해수욕장)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125692",
+  "name": "봉포 해변",
+  "region": "고성",
+  "lat": 38.25244,
+  "lon": 128.56615,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "봉포해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125694",
+  "name": "송정 해변",
+  "region": "강릉",
+  "lat": 37.7801,
+  "lon": 128.93713,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "송정해변(송정해수욕장)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125695",
+  "name": "등명 해변",
+  "region": "강릉",
+  "lat": 37.70416,
+  "lon": 129.01659,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "등명해변(등명해수욕장)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125696",
+  "name": "사천 해변",
+  "region": "강릉",
+  "lat": 37.8292,
+  "lon": 128.87771,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "사천해변(사천해수욕장)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125697",
+  "name": "안인 해변",
+  "region": "강릉",
+  "lat": 37.73426,
+  "lon": 128.99039,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "안인해변(안인해수욕장)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125698",
+  "name": "연곡 해변",
+  "region": "강릉",
+  "lat": 37.8585,
+  "lon": 128.8548,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "연곡해변(연곡해수욕장)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125699",
+  "name": "주문진 해변",
+  "region": "강릉",
+  "lat": 37.91058,
+  "lon": 128.81882,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "주문진해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125701",
+  "name": "하조대 해변",
+  "region": "양양",
+  "lat": 38.02299,
+  "lon": 128.72427,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51830",
+   "name": "하조대(전망대)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125702",
+  "name": "낙산 해변",
+  "region": "양양",
+  "lat": 38.11587,
+  "lon": 128.63576,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51830",
+   "name": "낙산 해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125704",
+  "name": "송전 해변",
+  "region": "양양",
+  "lat": 38.09262,
+  "lon": 128.66112,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51830",
+   "name": "송전해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125705",
+  "name": "삼척 해변",
+  "region": "삼척",
+  "lat": 37.46833,
+  "lon": 129.16917,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "삼척해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125707",
+  "name": "속초 해변",
+  "region": "속초",
+  "lat": 38.19055,
+  "lon": 128.60193,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51210",
+   "name": "속초해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125708",
+  "name": "어달 해변",
+  "region": "동해",
+  "lat": 37.56703,
+  "lon": 129.11927,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51170",
+   "name": "어달해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125709",
+  "name": "용화 해변",
+  "region": "삼척",
+  "lat": 37.2897,
+  "lon": 129.3052,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "용화해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125710",
+  "name": "임원 해변",
+  "region": "삼척",
+  "lat": 37.22306,
+  "lon": 129.3408,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "임원해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125711",
+  "name": "장호 해변",
+  "region": "삼척",
+  "lat": 37.2859,
+  "lon": 129.3142,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "장호해수욕장(장호항, 장호해변)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125713",
+  "name": "망상 해변",
+  "region": "동해",
+  "lat": 37.59221,
+  "lon": 129.08964,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51170",
+   "name": "망상해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125714",
+  "name": "거진1리 해변",
+  "region": "고성",
+  "lat": 38.44079,
+  "lon": 128.45472,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "거진1리해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125715",
+  "name": "교암 해변",
+  "region": "고성",
+  "lat": 38.29166,
+  "lon": 128.5466,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "교암해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125716",
+  "name": "동호 해변",
+  "region": "양양",
+  "lat": 38.05734,
+  "lon": 128.68311,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51830",
+   "name": "동호해변(양양)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125717",
+  "name": "덕산 해변",
+  "region": "삼척",
+  "lat": 37.38581,
+  "lon": 129.24093,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "덕산해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125718",
+  "name": "노봉 해변",
+  "region": "동해",
+  "lat": 37.58811,
+  "lon": 129.1014,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51170",
+   "name": "노봉해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125719",
+  "name": "작은후진 해변",
+  "region": "삼척",
+  "lat": 37.46383,
+  "lon": 129.17587,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "작은후진해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125840",
+  "name": "의항 해변",
+  "region": "태안",
+  "lat": 36.82778,
+  "lon": 126.16025,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "의항해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125843",
+  "name": "방포 해변",
+  "region": "태안",
+  "lat": 36.50874,
+  "lon": 126.33309,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "방포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125845",
+  "name": "몽산포 해변",
+  "region": "태안",
+  "lat": 36.67016,
+  "lon": 126.28755,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "몽산포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125846",
+  "name": "삼봉 해변",
+  "region": "태안",
+  "lat": 36.57151,
+  "lon": 126.31508,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "삼봉해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125847",
+  "name": "천리포 해변",
+  "region": "태안",
+  "lat": 36.8031,
+  "lon": 126.15027,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "천리포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t125852",
+  "name": "청포대 해변",
+  "region": "태안",
+  "lat": 36.63868,
+  "lon": 126.30262,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "청포대해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126083",
+  "name": "구영 해변",
+  "region": "거제",
+  "lat": 35.03117,
+  "lon": 128.69099,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "구영해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126086",
+  "name": "흥남 해변",
+  "region": "거제",
+  "lat": 34.95995,
+  "lon": 128.71488,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "흥남해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126091",
+  "name": "일산 해변",
+  "region": "울산",
+  "lat": 35.49489,
+  "lon": 129.43017,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "31",
+   "signgu": "31170",
+   "name": "일산해수욕장(울산)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126092",
+  "name": "칠포 해변",
+  "region": "포항",
+  "lat": 36.13192,
+  "lon": 129.40052,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47113",
+   "name": "칠포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126093",
+  "name": "송도 해변",
+  "region": "포항",
+  "lat": 36.0346,
+  "lon": 129.3808,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47111",
+   "name": "송도해변(포항)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126094",
+  "name": "화진 해변",
+  "region": "포항",
+  "lat": 36.2515,
+  "lon": 129.3741,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47113",
+   "name": "화진해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126095",
+  "name": "봉길대왕암 해변",
+  "region": "경주",
+  "lat": 35.73964,
+  "lon": 129.48346,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47130",
+   "name": "봉길대왕암해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126096",
+  "name": "진하 해변",
+  "region": "울산",
+  "lat": 35.38385,
+  "lon": 129.34598,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "31",
+   "signgu": "31710",
+   "name": "진하해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126097",
+  "name": "장사 해변",
+  "region": "영덕",
+  "lat": 36.282,
+  "lon": 129.376,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47770",
+   "name": "장사해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126099",
+  "name": "봉평 해변",
+  "region": "울진",
+  "lat": 37.044,
+  "lon": 129.4132,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47930",
+   "name": "봉평해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126100",
+  "name": "망양정 해변",
+  "region": "울진",
+  "lat": 36.96872,
+  "lon": 129.41251,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47930",
+   "name": "망양정해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126102",
+  "name": "구산 해변",
+  "region": "울진",
+  "lat": 36.75327,
+  "lon": 129.46745,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47930",
+   "name": "구산해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126103",
+  "name": "고래불 해변",
+  "region": "영덕",
+  "lat": 36.5989,
+  "lon": 129.411,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47770",
+   "name": "고래불해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126104",
+  "name": "대진 해변",
+  "region": "영덕",
+  "lat": 36.56449,
+  "lon": 129.42666,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47770",
+   "name": "대진해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126122",
+  "name": "송도 해변",
+  "region": "부산",
+  "lat": 35.07389,
+  "lon": 129.01643,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "26",
+   "signgu": "26140",
+   "name": "부산 송도해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126443",
+  "name": "화순금모래 해변",
+  "region": "제주",
+  "lat": 33.24067,
+  "lon": 126.3335,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50130",
+   "name": "화순금모래해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126447",
+  "name": "신양섭지 해변",
+  "region": "제주",
+  "lat": 33.43022,
+  "lon": 126.92805,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50130",
+   "name": "신양 섭지해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126451",
+  "name": "함덕 해변",
+  "region": "제주",
+  "lat": 33.54387,
+  "lon": 126.66834,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126577",
+  "name": "명사 해변",
+  "region": "거제",
+  "lat": 34.72721,
+  "lon": 128.60476,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "명사해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126578",
+  "name": "와현모래숲 해변",
+  "region": "거제",
+  "lat": 34.8125,
+  "lon": 128.7089,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "와현모래숲해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126579",
+  "name": "여차몽돌 해변",
+  "region": "거제",
+  "lat": 34.7138,
+  "lon": 128.6262,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126580",
+  "name": "농소몽돌 해변",
+  "region": "거제",
+  "lat": 35.0046,
+  "lon": 128.7011,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "농소몽돌해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126589",
+  "name": "황포 해변",
+  "region": "거제",
+  "lat": 35.02007,
+  "lon": 128.67403,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "황포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126649",
+  "name": "궁촌 해변",
+  "region": "삼척",
+  "lat": 37.32425,
+  "lon": 129.26716,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "궁촌해변(궁촌해수욕장)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126691",
+  "name": "봉수대 해변",
+  "region": "고성",
+  "lat": 38.32274,
+  "lon": 128.52798,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "봉수대해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126694",
+  "name": "후정 해변",
+  "region": "울진",
+  "lat": 37.06933,
+  "lon": 129.41603,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47930",
+   "name": "후정해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126695",
+  "name": "꽃지 해변",
+  "region": "태안",
+  "lat": 36.50132,
+  "lon": 126.33465,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "꽃지해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126727",
+  "name": "반암 해변",
+  "region": "고성",
+  "lat": 38.42144,
+  "lon": 128.46278,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "반암해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126776",
+  "name": "명파 해변",
+  "region": "고성",
+  "lat": 38.54374,
+  "lon": 128.40557,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "명파해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126777",
+  "name": "초도 해변",
+  "region": "고성",
+  "lat": 38.4907,
+  "lon": 128.4304,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "초도해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126778",
+  "name": "대진1리 해변",
+  "region": "고성",
+  "lat": 38.50339,
+  "lon": 128.42368,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "대진1리해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126784",
+  "name": "거진11리 해변",
+  "region": "고성",
+  "lat": 38.44426,
+  "lon": 128.45519,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "거진11리해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126785",
+  "name": "가진 해변",
+  "region": "고성",
+  "lat": 38.37396,
+  "lon": 128.50858,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "가진해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126787",
+  "name": "공현진1리 해변",
+  "region": "고성",
+  "lat": 38.35079,
+  "lon": 128.5106,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "공현진1리해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126788",
+  "name": "문암2리 해변",
+  "region": "고성",
+  "lat": 38.29672,
+  "lon": 128.54941,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "문암2리해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t126789",
+  "name": "청간 해변",
+  "region": "고성",
+  "lat": 38.26556,
+  "lon": 128.55904,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "청간해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127159",
+  "name": "남호 해변",
+  "region": "영덕",
+  "lat": 36.3276,
+  "lon": 129.3799,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47770",
+   "name": "남호해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127160",
+  "name": "하저 해변",
+  "region": "영덕",
+  "lat": 36.38979,
+  "lon": 129.40789,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47770",
+   "name": "하저해수욕장 (하저리 해수욕장)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127161",
+  "name": "오보 해변",
+  "region": "영덕",
+  "lat": 36.441,
+  "lon": 129.4328,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47770",
+   "name": "오보 해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127214",
+  "name": "구룡포 해변",
+  "region": "포항",
+  "lat": 35.99679,
+  "lon": 129.56625,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47111",
+   "name": "구룡포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127292",
+  "name": "구례포 해변",
+  "region": "태안",
+  "lat": 36.88576,
+  "lon": 126.19826,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "구례포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127311",
+  "name": "갈음이 해변",
+  "region": "태안",
+  "lat": 36.6957,
+  "lon": 126.152,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "갈음이해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127490",
+  "name": "협재 해변",
+  "region": "제주",
+  "lat": 33.39375,
+  "lon": 126.23943,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50110",
+   "name": "협재해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127587",
+  "name": "삼포 해변",
+  "region": "고성",
+  "lat": 38.31489,
+  "lon": 128.5354,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "삼포해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127591",
+  "name": "연포 해변",
+  "region": "태안",
+  "lat": 36.6942,
+  "lon": 126.2105,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "연포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127658",
+  "name": "학동 흑진주 몽돌 해변",
+  "region": "거제",
+  "lat": 34.77475,
+  "lon": 128.6415,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "학동흑진주몽돌해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127698",
+  "name": "영일대 해변",
+  "region": "포항",
+  "lat": 36.055,
+  "lon": 129.3779,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47113",
+   "name": "영일대해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127713",
+  "name": "추암 해변",
+  "region": "동해",
+  "lat": 37.47941,
+  "lon": 129.16021,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51170",
+   "name": "추암해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127722",
+  "name": "안목 해변",
+  "region": "강릉",
+  "lat": 37.77226,
+  "lon": 128.94828,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "안목해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127727",
+  "name": "증산 해변",
+  "region": "삼척",
+  "lat": 37.47459,
+  "lon": 129.16173,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "증산해변(증산 해수욕장)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127728",
+  "name": "원평 해변",
+  "region": "삼척",
+  "lat": 37.3199,
+  "lon": 129.2723,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "원평해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127729",
+  "name": "초곡 해변",
+  "region": "삼척",
+  "lat": 37.31039,
+  "lon": 129.28612,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "초곡해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127730",
+  "name": "신남 해변",
+  "region": "삼척",
+  "lat": 37.2647,
+  "lon": 129.327,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "신남해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127864",
+  "name": "파도리 해변",
+  "region": "태안",
+  "lat": 36.74099,
+  "lon": 126.13514,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "파도리해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127870",
+  "name": "곽지 해변",
+  "region": "제주",
+  "lat": 33.44851,
+  "lon": 126.30309,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50110",
+   "name": "곽지해수욕장 (곽지과물해변)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127871",
+  "name": "하맹방 해변",
+  "region": "삼척",
+  "lat": 37.39358,
+  "lon": 129.2257,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "하맹방해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127872",
+  "name": "맹방 해변",
+  "region": "삼척",
+  "lat": 37.38975,
+  "lon": 129.23198,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "맹방해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127873",
+  "name": "백도 해변",
+  "region": "고성",
+  "lat": 38.29837,
+  "lon": 128.54685,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "백도해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127917",
+  "name": "학암포 해변",
+  "region": "태안",
+  "lat": 36.8988,
+  "lon": 126.20411,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "학암포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t127939",
+  "name": "덕포 해변",
+  "region": "거제",
+  "lat": 34.91105,
+  "lon": 128.71041,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "덕포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128176",
+  "name": "옥계 해변",
+  "region": "강릉",
+  "lat": 37.62801,
+  "lon": 129.04804,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "옥계해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128199",
+  "name": "강동몽돌 해변",
+  "region": "울산",
+  "lat": 35.63168,
+  "lon": 129.44059,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "31",
+   "signgu": "31200",
+   "name": "강동몽돌해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128200",
+  "name": "주전몽돌 해변",
+  "region": "울산",
+  "lat": 35.56519,
+  "lon": 129.45604,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "31",
+   "signgu": "31170",
+   "name": "주전몽돌해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128679",
+  "name": "나정고운모래 해변",
+  "region": "경주",
+  "lat": 35.78294,
+  "lon": 129.49175,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47130",
+   "name": "나정고운모래해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128680",
+  "name": "전촌솔밭 해변",
+  "region": "경주",
+  "lat": 35.7857,
+  "lon": 129.4913,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47130",
+   "name": "전촌솔밭해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128727",
+  "name": "사근진 해변",
+  "region": "강릉",
+  "lat": 37.81271,
+  "lon": 128.8988,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "사근진해변(사근진해수욕장)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128728",
+  "name": "영진 해변",
+  "region": "강릉",
+  "lat": 37.8695,
+  "lon": 128.8449,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "영진해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128750",
+  "name": "자작도 해변",
+  "region": "고성",
+  "lat": 38.30871,
+  "lon": 128.54285,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "자작도해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128757",
+  "name": "정동진 해변",
+  "region": "강릉",
+  "lat": 37.69136,
+  "lon": 129.03257,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "정동진해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128758",
+  "name": "경포 해변",
+  "region": "강릉",
+  "lat": 37.80341,
+  "lon": 128.91021,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "강릉 경포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128794",
+  "name": "표선 해변",
+  "region": "제주",
+  "lat": 33.32563,
+  "lon": 126.84241,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128892",
+  "name": "구름포 해변",
+  "region": "태안",
+  "lat": 36.83584,
+  "lon": 126.15305,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "구름포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128893",
+  "name": "두여 해변",
+  "region": "태안",
+  "lat": 36.5419,
+  "lon": 126.3297,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "두여해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128894",
+  "name": "어은돌 해변",
+  "region": "태안",
+  "lat": 36.7528,
+  "lon": 126.1294,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "어은돌해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128895",
+  "name": "바람아래 해변",
+  "region": "태안",
+  "lat": 36.4122,
+  "lon": 126.3745,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "바람아래해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128897",
+  "name": "샛별 해변",
+  "region": "태안",
+  "lat": 36.44863,
+  "lon": 126.33603,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "샛별해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128899",
+  "name": "장돌 해변",
+  "region": "태안",
+  "lat": 36.41612,
+  "lon": 126.36545,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "장돌해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128901",
+  "name": "밧개 해변",
+  "region": "태안",
+  "lat": 36.53087,
+  "lon": 126.33076,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "밧개해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128902",
+  "name": "백사장 해변",
+  "region": "태안",
+  "lat": 36.57884,
+  "lon": 126.31479,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "백사장해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128903",
+  "name": "기지포 해변",
+  "region": "태안",
+  "lat": 36.56273,
+  "lon": 126.32235,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "기지포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128904",
+  "name": "마검포 해변",
+  "region": "태안",
+  "lat": 36.6076,
+  "lon": 126.2893,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "마검포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128905",
+  "name": "안면 해변",
+  "region": "태안",
+  "lat": 36.54951,
+  "lon": 126.3287,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "안면해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128908",
+  "name": "신두리 해변",
+  "region": "태안",
+  "lat": 36.83978,
+  "lon": 126.18974,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "신두리해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t128922",
+  "name": "장삼포 해변",
+  "region": "태안",
+  "lat": 36.4226,
+  "lon": 126.36,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "장삼포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t129011",
+  "name": "덕천 해변",
+  "region": "영덕",
+  "lat": 36.5699,
+  "lon": 129.4219,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47770",
+   "name": "덕천해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t129015",
+  "name": "후포 해변",
+  "region": "울진",
+  "lat": 36.67504,
+  "lon": 129.44201,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47930",
+   "name": "후포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t129160",
+  "name": "삼정 해변",
+  "region": "포항",
+  "lat": 36.0039,
+  "lon": 129.5721,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47111",
+   "name": "삼정해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t129161",
+  "name": "오류고아라 해변",
+  "region": "경주",
+  "lat": 35.8223,
+  "lon": 129.5095,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47130",
+   "name": "오류고아라해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t129183",
+  "name": "흥환 해변",
+  "region": "포항",
+  "lat": 36.02388,
+  "lon": 129.50112,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47111",
+   "name": "흥환간이해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t129400",
+  "name": "김녕 해변",
+  "region": "제주",
+  "lat": 33.55721,
+  "lon": 126.73655,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t129401",
+  "name": "삼양 해변",
+  "region": "제주",
+  "lat": 33.5255,
+  "lon": 126.58524,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50110",
+   "name": "삼양해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t129582",
+  "name": "부남 해변",
+  "region": "삼척",
+  "lat": 37.3611,
+  "lon": 129.2514,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "부남해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t129630",
+  "name": "나곡 해변",
+  "region": "울진",
+  "lat": 37.12575,
+  "lon": 129.3709,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47930",
+   "name": "나곡해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t1532338",
+  "name": "꾸지나무골 해변",
+  "region": "태안",
+  "lat": 36.9351,
+  "lon": 126.2929,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "꾸지나무골해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t1532423",
+  "name": "사목 해변",
+  "region": "태안",
+  "lat": 36.92036,
+  "lon": 126.29239,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "사목해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t1620883",
+  "name": "하모 해변",
+  "region": "제주",
+  "lat": 33.21132,
+  "lon": 126.26056,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50130",
+   "name": "하모해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t1621077",
+  "name": "세화 해변",
+  "region": "제주",
+  "lat": 33.52529,
+  "lon": 126.86124,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50110",
+   "name": "세화해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t1621219",
+  "name": "경정 해변",
+  "region": "영덕",
+  "lat": 36.48204,
+  "lon": 129.43303,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47770",
+   "name": "경정해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t1621384",
+  "name": "도구 해변",
+  "region": "포항",
+  "lat": 35.99177,
+  "lon": 129.44438,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47111",
+   "name": "도구해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t1621854",
+  "name": "관성솔밭 해변",
+  "region": "경주",
+  "lat": 35.6597,
+  "lon": 129.4522,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47130",
+   "name": "관성솔밭해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t1622212",
+  "name": "물안 해변",
+  "region": "거제",
+  "lat": 35.01081,
+  "lon": 128.65246,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "물안해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t1626917",
+  "name": "백리포 해변",
+  "region": "태안",
+  "lat": 36.81263,
+  "lon": 126.15587,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "백리포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t1932003",
+  "name": "외옹치 해변",
+  "region": "속초",
+  "lat": 38.18315,
+  "lon": 128.60893,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51210",
+   "name": "외옹치해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t1939570",
+  "name": "임랑 해변",
+  "region": "부산",
+  "lat": 35.31597,
+  "lon": 129.26206,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "26",
+   "signgu": "26710",
+   "name": "임랑해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2388953",
+  "name": "애견전용 해변",
+  "region": "양양",
+  "lat": 37.95408,
+  "lon": 128.77229,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51830",
+   "name": "애견전용해수욕장 멍비치"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2564158",
+  "name": "광치기 해변",
+  "region": "제주",
+  "lat": 33.45151,
+  "lon": 126.92464,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50130",
+   "name": "광치기해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2664196",
+  "name": "운여 해변",
+  "region": "태안",
+  "lat": 36.43353,
+  "lon": 126.35594,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "운여해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2702823",
+  "name": "정암 해변",
+  "region": "양양",
+  "lat": 38.139,
+  "lon": 128.6158,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51830",
+   "name": "정암해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2704383",
+  "name": "물치 해변",
+  "region": "양양",
+  "lat": 38.1537,
+  "lon": 128.6083,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51830",
+   "name": "물치해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2704435",
+  "name": "하도 해변",
+  "region": "제주",
+  "lat": 33.5135,
+  "lon": 126.8988,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50110",
+   "name": "하도해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2707937",
+  "name": "물치항 해변",
+  "region": "양양",
+  "lat": 38.15566,
+  "lon": 128.61005,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2710184",
+  "name": "한섬 해변",
+  "region": "동해",
+  "lat": 37.52116,
+  "lon": 129.12174,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2710820",
+  "name": "설악 해변",
+  "region": "양양",
+  "lat": 38.13008,
+  "lon": 128.62273,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51830",
+   "name": "설악해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2710821",
+  "name": "중광정 해변",
+  "region": "양양",
+  "lat": 38.02775,
+  "lon": 128.71752,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51830",
+   "name": "중광정해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2710829",
+  "name": "잔교리 해변",
+  "region": "양양",
+  "lat": 37.99334,
+  "lon": 128.74256,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2714543",
+  "name": "오분 해변",
+  "region": "삼척",
+  "lat": 37.42642,
+  "lon": 129.19173,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51230",
+   "name": "오분해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2714545",
+  "name": "등대 해변",
+  "region": "속초",
+  "lat": 38.21464,
+  "lon": 128.59833,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51210",
+   "name": "등대해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2714607",
+  "name": "원포리 해변",
+  "region": "양양",
+  "lat": 37.9314,
+  "lon": 128.7921,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2714611",
+  "name": "갯마을 해변",
+  "region": "양양",
+  "lat": 37.94479,
+  "lon": 128.78542,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51830",
+   "name": "갯마을해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2714641",
+  "name": "감추 해변",
+  "region": "동해",
+  "lat": 37.51473,
+  "lon": 129.12675,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2714642",
+  "name": "고불개 해변",
+  "region": "동해",
+  "lat": 37.52774,
+  "lon": 129.1217,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2714644",
+  "name": "켄싱턴 해변",
+  "region": "고성",
+  "lat": 38.24289,
+  "lon": 128.5724,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "켄싱턴해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2714645",
+  "name": "청호 해변",
+  "region": "속초",
+  "lat": 38.20044,
+  "lon": 128.59508,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2714805",
+  "name": "월천 해변",
+  "region": "삼척",
+  "lat": 37.16117,
+  "lon": 129.35332,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2715650",
+  "name": "사계 해변",
+  "region": "제주",
+  "lat": 33.2285,
+  "lon": 126.3088,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50130",
+   "name": "사계해안"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2715693",
+  "name": "두에기 해변",
+  "region": "태안",
+  "lat": 36.51907,
+  "lon": 126.32865,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "두에기해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2716757",
+  "name": "하평 해변",
+  "region": "동해",
+  "lat": 37.53353,
+  "lon": 129.11638,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2723542",
+  "name": "한담 해변",
+  "region": "제주",
+  "lat": 33.46275,
+  "lon": 126.3101,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50110",
+   "name": "한담해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2723555",
+  "name": "평대 해변",
+  "region": "제주",
+  "lat": 33.53321,
+  "lon": 126.84059,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50110",
+   "name": "평대해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2723610",
+  "name": "사곡 해변",
+  "region": "거제",
+  "lat": 34.89883,
+  "lon": 128.57216,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "사곡해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2723624",
+  "name": "망치몽돌 해변",
+  "region": "거제",
+  "lat": 34.81261,
+  "lon": 128.66793,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "망치몽돌해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2723629",
+  "name": "옥계 해변",
+  "region": "거제",
+  "lat": 34.97825,
+  "lon": 128.63086,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "옥계해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2723634",
+  "name": "덕원 해변",
+  "region": "거제",
+  "lat": 34.77832,
+  "lon": 128.57429,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "덕원해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2724982",
+  "name": "화진포 해변",
+  "region": "고성",
+  "lat": 38.47838,
+  "lon": 128.43938,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51820",
+   "name": "화진포 (강원평화지역 국가지질공원)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2732554",
+  "name": "오도1리 해변",
+  "region": "포항",
+  "lat": 36.1551,
+  "lon": 129.3988,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47113",
+   "name": "오도1리해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2736409",
+  "name": "신창 간이 해변",
+  "region": "포항",
+  "lat": 35.891,
+  "lon": 129.5245,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2736413",
+  "name": "용한 1리 해변",
+  "region": "포항",
+  "lat": 36.1118,
+  "lon": 129.4302,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47113",
+   "name": "용한 1리 해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2740047",
+  "name": "논짓물 해변",
+  "region": "제주",
+  "lat": 33.23676,
+  "lon": 126.38855,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50130",
+   "name": "논짓물"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2740135",
+  "name": "알작지 해변",
+  "region": "제주",
+  "lat": 33.496,
+  "lon": 126.4397,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50110",
+   "name": "알작지"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2753660",
+  "name": "음포 해변",
+  "region": "태안",
+  "lat": 36.9073,
+  "lon": 126.2862,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "음포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2753950",
+  "name": "기성망양 해변",
+  "region": "울진",
+  "lat": 36.8427,
+  "lon": 129.4344,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47930",
+   "name": "기성망양해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2753965",
+  "name": "하트 해변",
+  "region": "울진",
+  "lat": 37.05905,
+  "lon": 129.42851,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47930",
+   "name": "하트해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2756138",
+  "name": "영리 해변",
+  "region": "영덕",
+  "lat": 36.59298,
+  "lon": 129.40909,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47770",
+   "name": "영리해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2756533",
+  "name": "조사리 해변",
+  "region": "포항",
+  "lat": 36.22688,
+  "lon": 129.3815,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "47",
+   "signgu": "47113",
+   "name": "조사리간이해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2756648",
+  "name": "나아 해변",
+  "region": "경주",
+  "lat": 35.701,
+  "lon": 129.4732,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2758131",
+  "name": "두모몽돌 해변",
+  "region": "거제",
+  "lat": 34.98,
+  "lon": 128.6949,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "두모몽돌해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2758237",
+  "name": "달산포 해변",
+  "region": "태안",
+  "lat": 36.6563,
+  "lon": 126.2956,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "달산포해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2758238",
+  "name": "먼동 해변",
+  "region": "태안",
+  "lat": 36.88356,
+  "lon": 126.18747,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "먼동해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2758242",
+  "name": "원안 해변",
+  "region": "태안",
+  "lat": 36.70334,
+  "lon": 126.23678,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "44",
+   "signgu": "44825",
+   "name": "원안해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2774430",
+  "name": "대진 해변",
+  "region": "동해",
+  "lat": 37.57908,
+  "lon": 129.1145,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2775497",
+  "name": "순포 해변",
+  "region": "강릉",
+  "lat": 37.81927,
+  "lon": 128.89027,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "순포해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2775500",
+  "name": "소돌 해변",
+  "region": "강릉",
+  "lat": 37.90618,
+  "lon": 128.82724,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "소돌해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2777937",
+  "name": "나사 해변",
+  "region": "울산",
+  "lat": 35.3563,
+  "lon": 129.3416,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "31",
+   "signgu": "31710",
+   "name": "나사해변(나사리해수욕장)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2779457",
+  "name": "종달리 해변",
+  "region": "제주",
+  "lat": 33.4963,
+  "lon": 126.9107,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50110",
+   "name": "종달리해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2785289",
+  "name": "감지 해변",
+  "region": "부산",
+  "lat": 35.06,
+  "lon": 129.0775,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "26",
+   "signgu": "26200",
+   "name": "감지해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2788450",
+  "name": "솔개 해변",
+  "region": "울산",
+  "lat": 35.3737,
+  "lon": 129.3467,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "31",
+   "signgu": "31710",
+   "name": "솔개해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2789378",
+  "name": "제주신흥 해변",
+  "region": "제주",
+  "lat": 33.55195,
+  "lon": 126.64853,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50110",
+   "name": "제주신흥해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2837222",
+  "name": "코난 해변",
+  "region": "제주",
+  "lat": 33.55757,
+  "lon": 126.81119,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2912266",
+  "name": "부흥 해변",
+  "region": "영덕",
+  "lat": 36.28908,
+  "lon": 129.37445,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2912950",
+  "name": "이가리 해변",
+  "region": "포항",
+  "lat": 36.186,
+  "lon": 129.3816,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2912974",
+  "name": "죽천 해변",
+  "region": "포항",
+  "lat": 36.0856,
+  "lon": 129.417,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t2916001",
+  "name": "남애1리 해변",
+  "region": "양양",
+  "lat": 37.94553,
+  "lon": 128.78628,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51830",
+   "name": "남애1리해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t3026734",
+  "name": "표선소금막 해변",
+  "region": "제주",
+  "lat": 33.33398,
+  "lon": 126.84152,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t3034356",
+  "name": "통개 해변",
+  "region": "태안",
+  "lat": 36.72627,
+  "lon": 126.14178,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t3041720",
+  "name": "간이해수욕장 해변",
+  "region": "속초",
+  "lat": 38.20412,
+  "lon": 128.5946,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t3097805",
+  "name": "떠오르길·김녕 바닷길 해변",
+  "region": "제주",
+  "lat": 33.55789,
+  "lon": 126.74888,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t3097814",
+  "name": "세기알 해변",
+  "region": "제주",
+  "lat": 33.5577,
+  "lon": 126.7563,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t3559794",
+  "name": "모진이몽돌 해변",
+  "region": "제주",
+  "lat": 33.9457,
+  "lon": 126.3346,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t3569951",
+  "name": "지경리 해변",
+  "region": "경주",
+  "lat": 35.65275,
+  "lon": 129.44983,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t4087093",
+  "name": "반비치 해변",
+  "region": "고성",
+  "lat": 38.42428,
+  "lon": 128.46104,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": null,
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t583071",
+  "name": "구조라 해변",
+  "region": "거제",
+  "lat": 34.8068,
+  "lon": 128.6929,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "구조라해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t585522",
+  "name": "강문 해변",
+  "region": "강릉",
+  "lat": 37.7948,
+  "lon": 128.91902,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "강문해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t585526",
+  "name": "사천진 해변",
+  "region": "강릉",
+  "lat": 37.84117,
+  "lon": 128.87532,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "사천진해변(사천뒷불해수욕장)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t585542",
+  "name": "하평 해변",
+  "region": "강릉",
+  "lat": 37.846,
+  "lon": 128.8701,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "하평해변(강릉)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t585585",
+  "name": "순긋 해변",
+  "region": "강릉",
+  "lat": 37.81617,
+  "lon": 128.89335,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "순긋해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t585591",
+  "name": "염전 해변",
+  "region": "강릉",
+  "lat": 37.742,
+  "lon": 128.9842,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "염전해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t585615",
+  "name": "도직 해변",
+  "region": "강릉",
+  "lat": 37.60929,
+  "lon": 129.06763,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "51",
+   "signgu": "51150",
+   "name": "도직해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t591798",
+  "name": "하고수동 해변",
+  "region": "제주",
+  "lat": 33.51424,
+  "lon": 126.95744,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50110",
+   "name": "하고수동해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t591866",
+  "name": "금능 해변",
+  "region": "제주",
+  "lat": 33.39031,
+  "lon": 126.23602,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50110",
+   "name": "금능해수욕장"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t598558",
+  "name": "우도산호 해변",
+  "region": "제주",
+  "lat": 33.50265,
+  "lon": 126.94374,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50110",
+   "name": "우도 산호해변(서빈백사)"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t598635",
+  "name": "검멀레 해변",
+  "region": "제주",
+  "lat": 33.49728,
+  "lon": 126.96725,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "50",
+   "signgu": "50110",
+   "name": "검멀레해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ },
+ {
+  "id": "t852439",
+  "name": "함목몽돌 해변",
+  "region": "거제",
+  "lat": 34.74018,
+  "lon": 128.65296,
+  "bottom_type": "unknown",
+  "beginner_friendly": false,
+  "board_fit": [],
+  "popularity": 0.3,
+  "tour": {
+   "area": "48",
+   "signgu": "48310",
+   "name": "함목몽돌해변"
+  },
+  "note": "공공데이터에서 자동으로 가져온 해변 — 해저 지형·이안류·서핑 가능 여부 미확인"
+ }
+]
